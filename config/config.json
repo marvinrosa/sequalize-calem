@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "calem_user",
+    "password": "Medic0001-",
+    "database": "calemdby",
+    "host": "198.198.198.99",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "calem_user",
+    "password": "Medic0001-",
+    "database": "calemdby",
+    "host": "198.198.198.99",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

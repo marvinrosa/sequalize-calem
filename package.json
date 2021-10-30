@@ -1,0 +1,23 @@
+{
+  "name": "sequalize-calem",
+  "version": "0.1.0",
+  "description": "API REST CALEM-EAM",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.2",
+    "path": "^0.12.7",
+    "sequelize": "^6.8.0",
+    "sequelize-auto": "^0.8.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
